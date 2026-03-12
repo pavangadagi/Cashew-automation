@@ -1,0 +1,6 @@
+.env
+.kiro
+design
+dist
+node_modules
+package-lock.json
